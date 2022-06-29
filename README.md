@@ -8,3 +8,7 @@ A tech products comparator to individuals
 2. On the root of the project, activate environment using the command
    `source positix_dev/bin/activate`
 3. Run `pip install -r requirements.txt` to install dependencies
+
+## Diagram
+
+![positix-diagram-bw](https://user-images.githubusercontent.com/6495076/176347548-4742a1a4-2476-4f05-a61e-d30e65548514.png)
