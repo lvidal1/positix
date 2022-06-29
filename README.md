@@ -11,7 +11,7 @@ A tech products comparator to individuals
 
 ## New dependencies
 
-- Run `pip freeze > requirements.txt` to save new dependencies.
+- Run `pip freeze --local > requirements.txt` to save new dependencies.
 
 ## Diagram
 
